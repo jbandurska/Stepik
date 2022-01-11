@@ -1,1 +1,1 @@
-# Stepik
+Julia Bandurska
