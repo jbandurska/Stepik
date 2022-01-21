@@ -1,1 +1,1 @@
-Julia Bandurska
+# Powiększony nagłówek
