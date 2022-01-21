@@ -24,9 +24,9 @@ paragraf 3
     - Indented item
 - Fourth item 
 
-`pierwsza linia kodu  
-druga linia kodu  
-trzecia linia kodu`
+`pierwsza linia kodu`
+`druga linia kodu`
+`trzecia linia kodu`
 
 Kod programu `zagnieżdżony` w tekście
 
